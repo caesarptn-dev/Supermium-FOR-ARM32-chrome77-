@@ -1,5 +1,4 @@
 # Supermium-FOR-ARM32-chrome77-
-# ⚠️ Chromium for Windows RT (aarch32) — Unstable Build
 
 > **Warning:** This is an **unstable, experimental** port of the Chromium browser targeting Windows RT and other `aarch32` platforms. Expect bugs, crashes, and missing features. Use at your own risk.
 
@@ -26,7 +25,7 @@ Modern Chromium has dropped official support for 32-bit ARM Windows. This projec
 | Hardware acceleration | ❌ Not supported |
 | Extensions | ❌ Not supported |
 | Video playback | ❌ Not supported |
-| Touchscreen input | ⚠️ Experimental |
+| Touchscreen input | Working💚 |
 
 ---
 
